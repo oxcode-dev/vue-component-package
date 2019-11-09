@@ -1,7 +1,7 @@
 {
   "name": "vue-component",
   "version": "0.0.1",
-  "description": "First Vue Component Package.",
+  "description": "Vue Component Package Example.",
   "main": "dist/index.js",
   "author": "codeosemeke",
   "license": "MIT",
