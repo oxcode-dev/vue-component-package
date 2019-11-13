@@ -1,5 +1,5 @@
 {
-  "name": "vue-component",
+  "name": "vue-component-laravel-mix",
   "version": "0.0.1",
   "description": "Vue Component Package Example.",
   "main": "dist/index.js",
